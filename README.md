@@ -1,1 +1,1 @@
-# git-isomorphic-git
+Very short README
